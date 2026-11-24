@@ -1,0 +1,10 @@
+/* RENTWHEELS Shared Theme Variables (Forest Green, Cream, Beige, White, Dark Green) */
+:root {
+  --rw-forest: #1E4D36;
+  --rw-dark-green: #132A1E;
+  --rw-cream: #FAF8F3;
+  --rw-beige: #F1ECE1;
+  --rw-border: #DFD8C8;
+  --rw-white: #FFFFFF;
+  --rw-muted: #4A5D52;
+}

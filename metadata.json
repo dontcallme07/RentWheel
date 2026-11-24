@@ -1,0 +1,6 @@
+{
+  "name": "RENTWHEELS",
+  "description": "Vehicle rental web application for Hubballi and Dharwad, Karnataka with 18 Indian vehicles, customer bookings, admin dashboard, and JSON file storage.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

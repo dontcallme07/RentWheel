@@ -1,0 +1,47 @@
+[
+  {
+    "id": "usr-101",
+    "name": "Rohan Kulkarni",
+    "email": "rohan.kulkarni@example.com",
+    "phone": "9845123401",
+    "city": "Hubballi",
+    "role": "customer",
+    "createdAt": "2026-10-12T09:30:00.000Z"
+  },
+  {
+    "id": "usr-102",
+    "name": "Priya Deshpande",
+    "email": "priya.deshpande@example.com",
+    "phone": "9845123402",
+    "city": "Dharwad",
+    "role": "customer",
+    "createdAt": "2026-10-15T11:15:00.000Z"
+  },
+  {
+    "id": "usr-103",
+    "name": "Vikram Joshi",
+    "email": "vikram.joshi@example.com",
+    "phone": "9845123403",
+    "city": "Hubballi",
+    "role": "customer",
+    "createdAt": "2026-10-20T14:40:00.000Z"
+  },
+  {
+    "id": "usr-104",
+    "name": "Ananya Patil",
+    "email": "ananya.patil@example.com",
+    "phone": "9845123404",
+    "city": "Dharwad",
+    "role": "customer",
+    "createdAt": "2026-11-01T10:05:00.000Z"
+  },
+  {
+    "id": "usr-105",
+    "name": "Karthik Hegde",
+    "email": "karthik.hegde@example.com",
+    "phone": "9845123405",
+    "city": "Hubballi",
+    "role": "customer",
+    "createdAt": "2026-11-08T16:20:00.000Z"
+  }
+]
